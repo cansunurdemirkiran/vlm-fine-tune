@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+sentencepiece
+tokenizers
+Pillow
+tqdm
+requests
+urllib3
+pathlib
+python-dotenv
+jupyter
+numpy
+matplotlib
+evaluate
