@@ -10,11 +10,8 @@ This project provides a framework for training and evaluating three popular visi
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Project Structure](#project-structure)
-  - [Running the Training](#running-the-training)
-- [Evaluation](#evaluation)
-- [Results](#results)
+- [Running the Training](#running-the-training)
+
 
 ## Project Overview
 
@@ -58,11 +55,11 @@ You will need to download the COCO 2015 images and annotations and structure the
 
 2. **Install the required Python packages:**
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
-3. **Running the Training:****Clone the repository:**
+### **Running the Training:**
 
-```bash
-python main.py
+   ```bash
+   python main.py
